@@ -8,7 +8,7 @@ import 'widgets/app_theme.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  Firebase.initializeApp();
+  //Firebase.initializeApp();
   runApp(const MyApp());
 }
 
